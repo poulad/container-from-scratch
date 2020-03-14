@@ -1,4 +1,4 @@
-# Container From Scratch
+# Containers From Scratch
 
 Learning more about Linux security, containers, and Golang.
 Inspired by the works of [@lizrice].
